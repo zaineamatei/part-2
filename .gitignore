@@ -1,0 +1,14 @@
+#Ignore everything
+*
+
+#Allow Python and Jupyter files
+!*.py
+!*.ipynb
+!*.md
+
+#Allow .gitignore file
+!.gitignore
+
+#Allow directories
+!*/
+
